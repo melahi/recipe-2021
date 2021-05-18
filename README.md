@@ -1,4 +1,4 @@
 # Guacamole recipe
 
-Used in teaching Git.
-The list of helpful commands:
+
+Place holder for the ReadME
